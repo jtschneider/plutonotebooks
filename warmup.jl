@@ -1,5 +1,7 @@
 using StatsPlots
 using Distributions
+using Plots
+plotlyjs()
 
 mu = 3.14;
 sigma = 1.0;
